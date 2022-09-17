@@ -1,1 +1,2 @@
-# While-My-Guitar-Gently-Wheeps-demo-
+# p5.play-boilerplate
+Boiler plate for p5.play
